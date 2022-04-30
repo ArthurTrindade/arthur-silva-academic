@@ -27,6 +27,10 @@ module:
 ############################
 ## ADVANCED
 ############################
+backend:
+  name: git-gateway
+  repo: ArthurTrindade/arthur-silva-academic
+  branch: main
 
 enableGitInfo: false
 summaryLength: 30
