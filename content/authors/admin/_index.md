@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Undergraduate student in computer science
+    - course: Undergraduate Student in Computer Science
       institution: Federal University of Goiás
-      year: 2022-
+      year: 2022 -
     
 
 # Social/Academic Networking
