@@ -6,7 +6,7 @@ title: Arthur Trindade
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student in computer science
+role: Undergraduate Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
